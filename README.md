@@ -1,6 +1,6 @@
 ### Noah Schiro
 
-I'm a AI engineer working with research labs!.
+I'm a AI engineer working with research labs!
 
 I'm currently working on some research involving transformer capabilities in the audio modality (hopefully that will be public soon). I really like tinkering with low-level systems and anything machine learning related. I've just recently started contributing to some open-source projects like [openai/improved-diffusion](https://github.com/openai/improved-diffusion/) or [pytorch/examples](https://github.com/pytorch/examples) and I'm always looking for something new to work with and contribute to!
 
